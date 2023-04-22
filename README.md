@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm BRATAJIT DAS</h1>
 <h3 align="center">A passionate Front-end Developer and a Competetive Coder from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-- 🔭 I’m interested in **Competetive Coding**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m interested in **Competetive Coding**.
 
-- 👯 I’m looking to collaborate on **Projects**
+- 🌱 I’m currently learning **Machine Learning**.
 
-- 💬 Ask me about **C/C++,Python,ML**
+- 👯 I’m looking to collaborate on **Projects**.
 
-- 📫 Reach me at **dasbratajit@gmail.com**
+- 💬 Talk's about **C/C++,Python,ML**.
+
+- 📫 Reach me at **dasbratajit@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
