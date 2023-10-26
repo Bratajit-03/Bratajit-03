@@ -43,7 +43,7 @@
 
 ## LeetCode Stats
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=your-leetcode-username)](https://leetcode.com/Bratajit_2003/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Bratajit_2003)
 
 ## GitHub Trophies
 
