@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm BRATAJIT DAS 👋</h1>
 <h3 align="center">A passionate Web-Developer and a Competetive Coder from India.</h3>
 
+ [![Profile Views](https://komarev.com/ghpvc/?username=Bratajit-03&label=Profile+Views&color=blue&style=flat-square&logo=github&logoColor=white)](https://github.com/Bratajit-03)
+
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bratajit-03)
