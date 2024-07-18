@@ -48,6 +48,6 @@
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bratajit-03&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bratajit-03&theme=radical" alt="Bratajit-03" /></a> </p>
 
  *Let's Connect, Collaborate, and Create something amazing!*
